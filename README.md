@@ -9,7 +9,7 @@ It's built using [Eleventy](https://www.11ty.dev/) and based on the [deventy sta
 In the terminal, install all dependencies using npm:
 
 ```
-$ npm install
+npm install
 ```
 
 ### Developing with a local server
@@ -19,7 +19,7 @@ When developing locally, use the built in server which will automatically re-bui
 In the terminal, run:
 
 ```
-$ npm run dev
+npm run dev
 ```
 
 You can then view the website at http://localhost:4000.
